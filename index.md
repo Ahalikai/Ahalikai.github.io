@@ -1,4 +1,4 @@
-李 凯
+李 凯 
 
 15380251715	Aha15380251715@gmail.com
 
@@ -15,11 +15,11 @@
 
 # 科研经历
 ## 学术论文
-[1] Kai Li (李凯), Hui Wang*, Wenjun Wang, Feng Wang, Zhihua Cui, Improving Artificial Bee Colony Algorithm Using Modified Nearest Neighbor Sequence, Journal of King Saud University - Computer and Information Sciences (2021), doi: https://doi.org/10.1016/j.jksuci.2021.10.012  (SCI, IF: 13.473)
+[1] Kai Li (李凯), Hui Wang*, Wenjun Wang, Feng Wang, Zhihua Cui, Improving Artificial Bee Colony Algorithm Using Modified Nearest Neighbor Sequence, Journal of King Saud University - Computer and Information Sciences, 2022, 34(10): 8807-8824. (SCI, IF: 13.473)
 
-[2] Kai Li (李凯), Minyang Xu, Tao Zeng, Tingyu Ye, Luqi Zhang, Wenjun Wang, Hui Wang*, A new artificial bee colony algorithm based on modified search strategy, International Journal of Computing Science and Mathematics. (EI, 已录用)
+[2] Kai Li (李凯), Minyang Xu, Tao Zeng, Tingyu Ye, Luqi Zhang, Wenjun Wang, Hui Wang*, A new artificial bee colony algorithm based on modified search strategy, International Journal of Computing Science and Mathematics, 2022, 15(4): 387-395. (EI)
 
-[3] Xin Li, Kai Li (李凯), Tao Zeng, Tingyu Ye, Luqi Zhang, Hui Wang*, Artificial bee colony with multiple search strategies and a new updating mechanism, International Journal of Computing Science and Mathematics. (EI, 已录用)
+[3] Xin Li, Kai Li (李凯), Tao Zeng, Tingyu Ye, Luqi Zhang, Hui Wang*, Artificial bee colony with multiple search strategies and a new updating mechanism, International Journal of Computing Science and Mathematics, 2022, doi: https://doi.org/10.1504/IJCSM.2022.10048859 (EI)
 
 [4] 李凯.概率模型的简易应用[J].电脑知识与技术,2018,14(05):243-244. (中学时期发表)
 
