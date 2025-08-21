@@ -2,12 +2,12 @@
 
 15380251715	Aha15380251715@gmail.com
 
-南昌高新技术开发区天祥大道 289 号（瑶湖校区）(330099)
+广东省深圳市南山区学苑大道1088号 南方科技大学 (518055)
 
 # 教育背景
-2018.09–2022.06	统招本科	      南昌工程学院	    计算机科学与技术专业
+2023.09–2026.06	  硕士 研究生	      南方科技大学 (深圳，双一流)	    电子信息（计算机方向）
 
-2018.11–至今	江西省水信息协调感知与智能处理重点实验室
+2018.09–2022.06	  学士 本科	        江西水利电力大学 (南昌)	        计算机科学与技术专业
 
 2019.07–2019.08	北京大学暑期访学
 
@@ -15,16 +15,22 @@
 
 # 科研经历
 ## 学术论文
-[1] Kai Li (李凯), Hui Wang*, Wenjun Wang, Feng Wang, Zhihua Cui, Improving Artificial Bee Colony Algorithm Using Modified Nearest Neighbor Sequence, Journal of King Saud University - Computer and Information Sciences, 2022, 34(10): 8807-8824. (SCI, IF: 13.473)
 
-[2] Kai Li (李凯), Minyang Xu, Tao Zeng, Tingyu Ye, Luqi Zhang, Wenjun Wang, Hui Wang*, A new artificial bee colony algorithm based on modified search strategy, International Journal of Computing Science and Mathematics, 2022, 15(4): 387-395. (EI)
+[1] **Kai Li (李凯)**, Ruihao Zheng, Xinye Hao, Zhenkun Wang*, Multi-Objective Infeasibility Diagnosis for Routing Problems Using Large Language Models, arXiv preprint arXiv:2508.03406. (**CCF A**, Under Review)
 
-[3] Xin Li, Kai Li (李凯), Tao Zeng, Tingyu Ye, Luqi Zhang, Hui Wang*, Artificial bee colony with multiple search strategies and a new updating mechanism, International Journal of Computing Science and Mathematics, 2022, doi: https://doi.org/10.1504/IJCSM.2022.10048859 (EI)
+[2] **Kai Li (李凯)**, Fei Liu, Zhenkun Wang*, Xialiang Tong, Xiongwei Han, Mingxuan Yuan, Qingfu Zhang, ARS: Automatic Routing Solver with Large Language Models, arXiv preprint arXiv:2502.15359. (**CCF A**, Under Review)
 
-[4] 李凯.概率模型的简易应用[J].电脑知识与技术,2018,14(05):243-244. (中学时期发表)
+[3] **Kai Li (李凯)**, Kangnian Lin, Ruihao Zheng, Zhenkun Wang*, Selection Strategy Based on Proper Pareto Optimality in Evolutionary Multi-Objective Optimization, International Conference on Parallel Problem Solving From Nature, 2024. (PPSN, **CCF B**)
+
+[4] **Kai Li (李凯)**, Hui Wang*, Wenjun Wang, Feng Wang, Zhihua Cui, Improving Artificial Bee Colony Algorithm Using Modified Nearest Neighbor Sequence, Journal of King Saud University - Computer and Information Sciences, 2022, 34(10): 8807-8824.  (**SCI**, IF: 13.473)
+
+[5] **Kai Li (李凯)**, Minyang Xu, Tao Zeng, Tingyu Ye, Luqi Zhang, Wenjun Wang, Hui Wang*, A new artificial bee colony algorithm based on modified search strategy, International Journal of Computing Science and Mathematics, 2022, 15(4): 387-395. (**SCI**)
+
+[6] Xin Li, **Kai Li (李凯)**, Tao Zeng, Tingyu Ye, Luqi Zhang, Hui Wang*, Artificial bee colony with multiple search strategies and a new updating mechanism, International Journal of Computing Science and Mathematics, 2023, 18(1): 44-53. (**SCI**)
+
 
 ## 发明专利
-[1] 李凯,甘建军,冯祥胜. 基于AOD-Net的交通道路图像大气能见度检测方法[P]. 江西省：CN112330675A, 2021-02-05. (发明公开)
+[1] **李凯**,甘建军,冯祥胜. 基于AOD-Net的交通道路图像大气能见度检测方法[P]. 江西省：CN112330675B, 2022-08-23. (**授权**, 专利号：ZL202011472880.4)
 
 ## 计算机软件著作权
 [1] NIT Online Judge 系统.(授权编号：2019R11L1414923)
@@ -36,19 +42,23 @@
 [4] NIT瑶湖学院学生综合素质评价管理系统.(授权编号：2019R11L1415296)
 
 # 工作经历
-## 2022.07-至今                           江西省水信息协调感知与智能处理重点实验室                         科研助理
-参与国家自然科学基金项目-赣江流域水库群高维多目标生态调度研究，将理论算法转化为实际应用。
+## 2023.01-2023.08                                   上海驭矩信息科技有限公司                             机器视觉工程师
 
-协助实验室课题组项目申报及评审，以及发明/实用新型专利、计算机软件著作权等科研成果的申请。
+训练Yolo-v7 (TensorRT推理) 识别码头吊具，并用LSD检测机械边缘，从而实时检测位姿状态情况。
 
-指导学生参加大学生创新创业项目、中国“互联网+”大学生创新创业大赛等活动。
+为监测雷达点云的鬼点现象，搭建深度学习的雨、雪、雾等气象检测算法 (应用本人的发明专利)。
+
+采用Yolact对码头箱体进行实例分割，再用OpenCV提取图像特征，实现抓箱孔外的闭锁检测。
+
+采用DarkNet框架，轻量化车道线模型(SCNN、Ultra Fast)，并重写为C++的.cfg模型，落地应用。
 
 ## 2022.02-2022.06                                 商汤科技-上海人工智能实验室                                见习研究员
-基于Pytorch实现2D车道线检测算法(SCNN、Ultra Fast)、3D车道线检测算法(3D-LaneNet、Gen-LaneNet)以及半监督方法(Mean Teacher、Noisy Student)。
+
+基于Pytorch实现2D车道线检测算法 (SCNN、Ultra Fast)、3D车道线检测算法 (3D-LaneNet、Gen-LaneNet) 以及半监督方法 (Mean Teacher、Noisy Student)。
 
 搭建离线车道线真值系统：载入预训练模型、构建Multi-Optimizer、利用Pseudo Label提升算法性能。
 
-参加Waymo 3D Semantic Segmentation Challenge，利用多帧融合对道路上的23种点云信息(汽车、摩托车、行人等)进行分类，算法性能排名第一。
+参加Waymo 3D Semantic Segmentation Challenge：利用多帧融合对道路上的23类点云信息（如汽车、摩托车、行人等）进行分类，算法性能排名第一。
 
 ## 2020.05-2020.09                       东软集团股份有限公司-江西省人民医院                      见习软件工程师
 开发“挂号直通车”功能：根据患者过往挂号记录，个性化引导患者，节省患者时间。搭建流程引擎，调用HIS接口，查询SQL Sever中已有的挂号记录，采用C#设计WinForm窗体并显示。
@@ -58,41 +68,48 @@
 与公司其他部门共同对PDA、医护机器人等设备进行配置，在疫情期间助力医疗信息化、智能化。
 
 # 实践项目
-## 2020.10-2021.12                          基于最近邻解序列的人工蜂群算法研究                             第一作者
-基于机器学习的K-Nearest Neighbor，在计算智能领域提出改进的最近邻解概念，并构建最近邻解序列。
+## 2025.04-至今                          基于大语言模型的路径问题多目标不可行性诊断方法                第一作者
 
-基于最近邻解序列为人工蜂群算法提供两种搜索策略，并构建策略池，在搜索过程中自适应选择搜索策略。
+针对用户需求不合理、模型没有可行域的不完备问题，提出了一种基于多目标优化的自动路径求解器。该求解器以路径长度和约束程度为优化目标，能够生成一组不同程度模型修改的代表性路径方案。
 
-基于最近邻解序列改进人工蜂群算法的选择机制，为质量好的解分配更多的计算资源。
+构建模型诊断系统：利用LLM Agent生成方案分析程序，依据代表性方案为用户提供多样化的诊断建议。
 
-设计了七组不同类型的实验，对比了国内外23种计算智能算法，验证了改进方法的有效性。	
+第一作者完成 Multi-Objective Infeasibility Diagnosis for Routing Problems Using Large Language Models (已投稿**CCF A**会议)。
+
+## 2024.01-2025.03                   基于大语言模型的车辆路径问题建模与自动算法设计                第一作者
+
+与华为诺亚方舟实验室联合发布 RoutBench 数据集：面向现实车辆路径问题，涵盖上千类不同场景。
+
+提出基于大语言模型的通用算法设计范式：构建自动路径求解器，实现用户提出需求，无需专家介入，直接产出方案。ARS通过LLM Agent理解用户需求自动设计算法，并结合启发式策略高效处理新的问题。
+
+ARS能够自动处理91.67％的常见车辆路径问题，并在各类问题上比其他七个LLM方法提升至少30%。
+
+第一作者完成 ARS: Automatic Routing Solver with Large Language Models (已投稿**CCF A**会议)。
 
 ## 2019.05-2020.05                基于深度学习的交通道路图像大气能见度监测方法研究              项目负责人
-重构经典大气光散射模型，并用深度学习算法AOD-Net对大气光散射模型中的K(x)进行估算。
 
-将AOD-Net产出的K(x)传入清晰图像重写模型中，获得清晰图像。
+重构经典大气光散射模型，并利用深度学习算法AOD-Net对大气光散射模型中的K(x)参数进行估算。
 
-图像内各物体景深不同，受雾影响也不同。因此将清晰图像与原图像进行网格化相似度对比。能见度越低，各网格块的图像受雾体的影响越不均匀，从而计算出能见度级别。
+将AOD-Net产出的K(x)输入清晰图像重建模型，生成去雾后的清晰图像。
+
+针对图像中不同物体因景深差异受雾影响不同的特点，通过对清晰图像与原始图像的网格化相似度对比，分析雾体影响的不均匀性，进而计算能见度级别。
 
 PC端：采用PyQt搭建GUI；Web端：SSM+Flask调用算法，VUE+Element-UI+ECharts可视化。
 
-## 2018.12-2019.03                                   NIT Online Judge 3.0系统                                 项目负责人
+视频讲解：https://www.bilibili.com/video/BV1Av4y1d71z/
 
-为学校已运行的Online Judge平台，增添填空题、改错题、判断题等多种题型。为非计算机专业的学生提供基础教学平台。
-
-系统采用Spring+Spring MVC+MyBatis框架，判题功能利用Docker进行代码编译。
 
 # 访学经历
 ## 2020.01-2020.09                                              武汉大学                                                  计算机学院
-XXX战略实验设计平台：编写NSGAⅡ对XXX多目标代理模型进行求解，采用PyQt搭建GUI。
 
-救灾物资调度系统：基于人工蜂群算法搭建物资调度模型，采用AirGis+Qt可视化调配方案。
+XXX作战实验设计平台：编写NSGAⅡ对XXX多目标代理模型进行求解，并使用PyQt搭建GUI。
+
+救灾物资调度系统：基于人工蜂群算法构建物资调度模型，结合AirGis和Qt实现调配方案的可视化。
 
 无人机群仿真平台：搭建AirSim平台，通过Shell控制Unreal Engine 4虚拟引擎中的无人机。
 
-学习MCE文献阅读方法，并复现了BPNN、PSO、DE、EDA、GA、TS、ABC、NSGAⅡ等算法。
-
 ## 2019.07-2019.08                                              北京大学                                                       教务部
+
 参加北京大学暑期学校(第三学期)，选修课程《ACM/ICPC竞赛训练》,《Applied Algorithms》。
 
 # 专业技能
@@ -103,4 +120,7 @@
 英语：四级已过，能阅读本专业外文文献，具有运用英文写作的科研训练经历。
 
 # 个人链接
-Github：https://ahalikai.github.io/
+
+HomePage：https://AhaLiKai.github.io/
+
+Google Scholar：https://scholar.google.com/citations?user=cSfbiYkAAAAJ
